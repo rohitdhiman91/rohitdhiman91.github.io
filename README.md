@@ -1,5 +1,5 @@
 <!--
-**rohitd91/rohitd91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rohitdhiman91/rohitdhiman91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -68,15 +68,15 @@ Check out my GitHub repositories to explore more of my work and contributions!
 - **Integrated Development Environments (IDEs)**: PhpStorm, Sublime, Visual Studio Code
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitd91&label=Profile%20views&color=0e75b6&style=flat" alt="rohitd91" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhiman91&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhiman91" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitd91" alt="rohitd91" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitdhiman91" alt="rohitdhiman91" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitd91&show_icons=true&locale=en&layout=compact" alt="rohitd91" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitdhiman91&show_icons=true&locale=en&layout=compact" alt="rohitdhiman91" /></p> -->
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitd91&show_icons=true&locale=en&theme=dark" alt="rohitd91" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitdhiman91&show_icons=true&locale=en&theme=dark" alt="rohitdhiman91" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitd91&theme=dark" alt="rohitd91" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdhiman91&theme=dark" alt="rohitdhiman91" /></p>
 
 ## 🌐 Let's Connect:
 
